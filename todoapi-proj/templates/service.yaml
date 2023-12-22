@@ -38,4 +38,4 @@ spec:
     app: todoapi
   ports:
   - port: 80
-    targetPort: 8085
+    nodePort: 32325
